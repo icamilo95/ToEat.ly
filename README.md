@@ -1,5 +1,7 @@
 #toEatApp
 
+**USE README IN MASTER BRANCH**
+
 ##Starting point
 
 * npm init
